@@ -6,8 +6,9 @@
 
 ### 01_Instagram <br>
   1) Instagram_crawling_tag.py
-     - 기간 : 2019.03.04 ~ 진행중
-     - 목표 : 인스타그램 Tag 검색 결과 Crawling
-     - 진행상황 : DOM 구조 분석 및 최신 게시물 
+  <br>
+    - 기간 : 2019.03.04 ~ 진행중
+    - 목표 : 인스타그램 Tag 검색 결과 Crawling
+    - 진행상황 : DOM 구조 분석 및 최신 게시물 
   
   <br><br>
