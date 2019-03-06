@@ -1,4 +1,4 @@
 def get_user():
     ID = "kireadang"
-    PW = "패스워드"
+    PW = "비밀번호"
     return ID, PW
